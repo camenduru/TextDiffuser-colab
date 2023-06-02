@@ -7,7 +7,7 @@
 
 | Colab | Info
 | --- | --- |
-<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/TextDiffuser-colab/blob/main/text_diffuser_colab.ipynb) | text_diffuser_colab -->
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/TextDiffuser-colab/blob/main/text_diffuser_colab.ipynb) | text_diffuser_colab
 
 ## Paper 
 https://arxiv.org/abs/2305.10855
