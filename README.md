@@ -17,3 +17,4 @@ https://jingyechen.github.io/textdiffuser/
 
 ## Main Repo
 https://github.com/microsoft/unilm/tree/master/textdiffuser <br />
+https://huggingface.co/spaces/microsoft/TextDiffuser/tree/main <br />
