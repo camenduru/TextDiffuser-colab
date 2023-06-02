@@ -18,3 +18,6 @@ https://jingyechen.github.io/textdiffuser/
 ## Main Repo
 https://github.com/microsoft/unilm/tree/master/textdiffuser <br />
 https://huggingface.co/spaces/microsoft/TextDiffuser/tree/main <br />
+
+## Output
+![Screenshot 2023-06-02 214505](https://github.com/camenduru/TextDiffuser-colab/assets/54370274/2b321585-7105-41cd-8b72-8dc7148c79b6)
